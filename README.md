@@ -27,3 +27,4 @@ On some platforms an asset folder or a specific Rust entrypoint is required.
 Shared projects contain the project source code that is shared across all platforms.  
 There should be no difference between platforms (* except for some minor things like asset loading).
 
+[Hello-Rust](https://github.com/rust-multiplatform/Shared-Hello-Rust.git)
