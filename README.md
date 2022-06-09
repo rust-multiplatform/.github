@@ -7,3 +7,9 @@ This GitHub Organization is aiming to create examples for cross/multi-platform R
 Platform projects showcase what is needed to get Rust code running on a given platform.  
 On some platforms an asset folder or a specific Rust entrypoint is required.  
 
+### PC
+
+[Windows](https://github.com/rust-multiplatform/Platform-Windows.git)  
+[Linux](https://github.com/rust-multiplatform/Platform-Linux.git)  
+[macOS](https://github.com/rust-multiplatform/Platform-macOS.git)  
+
