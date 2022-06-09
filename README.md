@@ -13,3 +13,8 @@ On some platforms an asset folder or a specific Rust entrypoint is required.
 [Linux](https://github.com/rust-multiplatform/Platform-Linux.git)  
 [macOS](https://github.com/rust-multiplatform/Platform-macOS.git)  
 
+### Mobile
+
+[Android](https://github.com/rust-multiplatform/Platform-Android.git)  
+[iOS](https://github.com/rust-multiplatform/Platform-iOS.git)  
+
