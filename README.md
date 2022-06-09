@@ -18,3 +18,7 @@ On some platforms an asset folder or a specific Rust entrypoint is required.
 [Android](https://github.com/rust-multiplatform/Platform-Android.git)  
 [iOS](https://github.com/rust-multiplatform/Platform-iOS.git)  
 
+### Web
+
+[WebAssembly](https://github.com/rust-multiplatform/Platform-WebAssembly.git)  
+
