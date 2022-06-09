@@ -1,1 +1,1 @@
-# Rust Multi-Platform
+# Rust Multiplatform
